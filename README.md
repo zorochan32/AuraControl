@@ -58,6 +58,18 @@ Follow these simple steps to get a local copy up and running.
 *   An internet connection for the initial dependency installation.
 
 ### Installation & Usage
+## Installing the Latest Version
+
+To install the latest version of AuraControl, use the official release:
+
+[Download the Latest AuraControl Release](https://github.com/zorochan32/AuraControl/releases/tag/AuraControl)
+
+1. Open the link above.  
+2. Download the version you need (usually a ZIP or EXE file).  
+3. If it’s a ZIP file, extract it and follow the included instructions to run the program.  
+4. If it’s an EXE file, simply double-click it to launch the program.
+
+  OR
 
 1.  **Clone the Repository:**
     ```sh
