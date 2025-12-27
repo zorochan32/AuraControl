@@ -11,7 +11,7 @@ AuraControl is a Python-based application that uses your webcam to translate rea
 
 <p align="center">
   <!-- IMPORTANT: Replace this with the URL to the logo you created! -->
-  <img src="https://imgur.com/a/u81wAgQ" alt="AuraControl Logo" width="200"/>
+  <img src="https://i.imgur.com/Jf7goEd.png" alt="AuraControl Logo" width="200"/>
 </p>
 
 <br>
