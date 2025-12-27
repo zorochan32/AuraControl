@@ -1,0 +1,8 @@
+opencv-python
+mediapipe==0.10.9
+pyautogui
+pywin32
+speechrecognition
+numpy
+keyboard
+customtkinter Pillow
